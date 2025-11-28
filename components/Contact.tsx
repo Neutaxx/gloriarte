@@ -71,9 +71,9 @@ export const Contact: React.FC = () => {
                 onChange={e => setFormData({ ...formData, type: e.target.value })}
               >
                 <option>Muñeco Amigurumi</option>
-                <option>Ramo de Flores</option>
-                <option>Llavero Personalizado</option>
-                <option>Ropa de Bebé</option>
+                <option>Sandalias decoradas</option>
+                <option>Decoraciones para el hogar</option>
+                <option>Accesorios para mascotas</option>
                 <option>Otro (Describir abajo)</option>
               </select>
             </div>

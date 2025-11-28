@@ -79,7 +79,7 @@ export const EXTRA_CATEGORIES = [
   },
   {
     id: "e4",
-    title: "Cosas para mascotas",
+    title: "Accesorios para mascotas",
     description: "Consentimos a tus peluditos con accesorios especiales.",
     image: mascotasImg,
     color: "bg-[#bae1ff]", // Pale Blue
